@@ -1,0 +1,9 @@
+# Binarios y datos locales
+/gateway
+/data/
+*.db
+*.db-wal
+*.db-shm
+.env
+.DS_Store
+coverage.out
